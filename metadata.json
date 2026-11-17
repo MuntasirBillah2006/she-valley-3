@@ -1,0 +1,6 @@
+{
+  "name": "SHE-VALLEY",
+  "description": "BE COMFORTABLE. BE CONFIDENT. Accessible-premium women's innerwear and lifestyle e-commerce platform for Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

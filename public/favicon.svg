@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" fill="none">
+  <rect width="64" height="64" rx="14" fill="#6E1F35" />
+  <path
+    d="M21 23.5C21 19.9 24.4 17.5 28.5 17.5C31.3 17.5 33.7 18.7 35 20.6C36.3 18.7 38.7 17.5 41.5 17.5C45.6 17.5 49 19.9 49 23.5"
+    stroke="#F7F1EB"
+    stroke-width="2.5"
+    stroke-linecap="round"
+    opacity="0.35"
+  />
+  <text
+    x="32"
+    y="40"
+    text-anchor="middle"
+    fill="#F7F1EB"
+    font-family="Georgia, serif"
+    font-size="22"
+    font-weight="600"
+    letter-spacing="1.5"
+  >SV</text>
+</svg>
